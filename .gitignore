@@ -1,0 +1,7 @@
+.gitingore
+
+# virtualenv 
+py3env
+
+# vscode
+.vscode
